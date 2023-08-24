@@ -1,5 +1,3 @@
-Definition of Agriculture Industry
-=============================================================================
 
 The agriculture industry is a sector of the economy that involves the production, processing, and distribution of agricultural products. This industry plays a critical role in feeding the world's population, providing raw materials for industries, and contributing to the economy.
 

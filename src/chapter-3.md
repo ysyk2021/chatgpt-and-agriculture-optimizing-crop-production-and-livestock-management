@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Agriculture Industry
-=============================================
 
 The agriculture industry faces numerous challenges that can impact crop production and livestock management. In this chapter, we will explore the factors affecting the agriculture industry, the common challenges faced by farmers and agricultural businesses, and the impact of these challenges on crop production and livestock management.
 

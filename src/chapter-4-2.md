@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Crop Production and Livestock Management
-===============================================================================================================================
 
 In this chapter, we will explore the role of AI and chatbots in agriculture and how they can improve crop production and livestock management.
 

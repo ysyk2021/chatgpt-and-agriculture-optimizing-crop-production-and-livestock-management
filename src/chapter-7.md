@@ -1,5 +1,3 @@
-Chapter 6: Future of Agriculture Industry with ChatGPT
-======================================================
 
 The future of the agriculture industry with ChatGPT technology is promising. In this chapter, we will explore potential advancements in the agriculture industry with ChatGPT, emerging trends and challenges, and our conclusion and future outlook.
 

@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-======================================================================================
 
 Artificial intelligence (AI) and chatbots have the potential to transform agriculture by optimizing crop production and livestock management. In this chapter, we will introduce AI and chatbots and discuss their role in agriculture.
 

@@ -1,5 +1,3 @@
-Impact of these challenges on Crop Production and Livestock Management
-=====================================================================================================================
 
 In this chapter, we will explore the challenges faced by the agriculture industry and their impact on crop production and livestock management.
 

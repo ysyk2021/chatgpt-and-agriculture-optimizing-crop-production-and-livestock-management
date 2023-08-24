@@ -1,5 +1,3 @@
-Factors affecting agriculture industry
-=====================================================================================
 
 The agriculture industry is faced with a number of challenges that can impact crop production and livestock management. In this chapter, we will explore some of the factors that are affecting the agriculture industry.
 

@@ -1,5 +1,3 @@
-Chapter 1: Basics of Agriculture Industry
-=========================================
 
 In this chapter, we will explore the basics of the agriculture industry, including its definition, different types of agricultural practices, and the importance of optimizing crop production and livestock management.
 

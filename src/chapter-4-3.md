@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for agriculture industry
-=================================================================================================================
 
 Artificial intelligence (AI) and chatbots have become increasingly important tools in the agriculture industry. These technologies can help farmers make more informed decisions, increase efficiency, and reduce waste. In this chapter, we will explore some of the benefits of using AI and chatbots in agriculture.
 

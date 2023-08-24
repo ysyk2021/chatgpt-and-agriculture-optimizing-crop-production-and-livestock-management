@@ -1,5 +1,3 @@
-Emerging trends and challenges in agriculture industry and ChatGPT
-==========================================================================================================================
 
 The agriculture industry has undergone significant changes in recent years, driven by technological advancements such as ChatGPT. In this chapter, we will explore the emerging trends and challenges in the agriculture industry and ChatGPT and what the future holds for these industries.
 

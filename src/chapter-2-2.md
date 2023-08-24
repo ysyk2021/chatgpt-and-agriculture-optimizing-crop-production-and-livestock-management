@@ -1,5 +1,3 @@
-Different types of agricultural practices
-====================================================================================
 
 Agriculture is the practice of cultivating crops and raising livestock for food, fiber, and other products. There are many different types of agricultural practices, each with its own unique characteristics and challenges. In this chapter, we will explore some of the most common types of agricultural practices.
 

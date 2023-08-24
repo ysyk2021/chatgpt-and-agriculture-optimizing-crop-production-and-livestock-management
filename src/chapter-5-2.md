@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is an artificial intelligence language model that has the ability to generate human-like responses based on text-based prompts. In this chapter, we will explore the features and capabilities of ChatGPT and how they can be applied in the agriculture industry.
 
