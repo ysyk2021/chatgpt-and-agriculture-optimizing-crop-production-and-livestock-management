@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an introduction to Artificial Intelligence (AI) and chatbots, highlighting their significance in optimizing crop production and livestock management in the agricultural sector. We explore the fundamental concepts, applications, and benefits of AI and chatbot technologies in revolutionizing agricultural practices.
 

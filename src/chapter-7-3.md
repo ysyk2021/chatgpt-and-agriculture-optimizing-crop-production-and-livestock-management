@@ -1,5 +1,4 @@
-Chapter 5: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we conclude our exploration of ChatGPT's role in optimizing crop production and livestock management in the agriculture industry. We also provide a glimpse into the future outlook of AI technology in agriculture.
 

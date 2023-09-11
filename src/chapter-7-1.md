@@ -1,5 +1,4 @@
-Chapter 5: Potential Advancements in the Agriculture Industry with ChatGPT
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential advancements that ChatGPT can bring to the agriculture industry. As AI technology continues to advance, integrating ChatGPT into agricultural practices holds great promise for optimizing crop production, livestock management, and driving innovation in the sector.
 

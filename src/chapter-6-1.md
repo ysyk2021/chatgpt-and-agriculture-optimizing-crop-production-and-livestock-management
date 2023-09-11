@@ -1,5 +1,4 @@
-Chapter 8: Steps to Implement ChatGPT in the Agriculture Industry
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we outline the key steps involved in implementing ChatGPT, an AI language model, in the agriculture industry. These steps provide a comprehensive guide for agricultural businesses and stakeholders interested in leveraging chatbot technology to optimize crop production and livestock management.
 

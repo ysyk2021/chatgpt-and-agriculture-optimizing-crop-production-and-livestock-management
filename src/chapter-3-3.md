@@ -1,5 +1,4 @@
-Chapter 2: Impact of These Challenges on Crop Production and Livestock Management
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the challenges faced by the agriculture industry and the impact these challenges have on crop production and livestock management. By understanding the implications of these challenges, we can better appreciate the role of ChatGPT in addressing them.
 

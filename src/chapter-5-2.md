@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the features and capabilities of ChatGPT, highlighting how its advanced AI technology can be leveraged to optimize crop production and livestock management in the agriculture industry.
 

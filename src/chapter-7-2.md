@@ -1,5 +1,4 @@
-Chapter 4: Emerging Trends and Challenges in the Agriculture Industry and ChatGPT
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends and challenges in the agriculture industry, and how ChatGPT can address these challenges to optimize crop production and livestock management.
 

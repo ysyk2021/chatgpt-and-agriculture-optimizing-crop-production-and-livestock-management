@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Agriculture Industry
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview and definition of the agriculture industry. Agriculture is a vital sector that encompasses various activities related to cultivating crops, raising livestock, and producing food, feed, fiber, and other agricultural products. It plays a crucial role in providing sustenance, raw materials, and economic growth for societies around the world.
 

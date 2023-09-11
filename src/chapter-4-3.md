@@ -1,5 +1,4 @@
-Chapter 9: Benefits of Using AI and Chatbots in the Agriculture Industry
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous benefits that arise from using AI technology, specifically chatbots, in the agriculture industry. These advancements have the potential to revolutionize crop production and livestock management, leading to increased efficiency, improved decision-making, enhanced resource utilization, and ultimately, higher yields and profitability.
 

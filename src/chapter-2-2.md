@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Agricultural Practices
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore various types of agricultural practices employed in the industry. From traditional methods to modern techniques, understanding these practices is crucial for optimizing crop production and livestock management in the agriculture sector.
 
